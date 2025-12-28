@@ -8,7 +8,7 @@
 
 **Your face. Your mood. Your perfect soundtrack.** An award-winning AI application that analyzes facial expressions to create personalized Spotify playlists for emotional wellness.
 
-🏆 **Winner of AI Ideathon '25 (IIT Hyderabad) & Elan Hackathon**
+🏆 **Winner of AI Ideathon '25 & ElanNvision Dev-Duel Hackathon**
 
 ---
 
